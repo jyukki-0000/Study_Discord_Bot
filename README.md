@@ -17,13 +17,13 @@ discord.py 2.3.1
 
 ### Pythonとライブラリのバージョン確認:
 
-現在のPythonのバージョンを確認するには:
+`Python` 
 
 ```
 python --version
 ```
 
-`discord.py` のバージョンを確認するには:
+`discord.py`
 
 ```
 pip show discord.py | grep Version
