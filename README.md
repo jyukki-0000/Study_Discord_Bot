@@ -12,7 +12,7 @@ Discordでの勉強をサポートするためのBOTです。
 Python 3.9.5
 ```
 ```
-Version: 2.3.1
+discord.py 2.3.1
 ```
 
 ### Pythonとライブラリのバージョン確認:
