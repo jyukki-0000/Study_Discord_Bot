@@ -1,6 +1,6 @@
 # Discord Study Bot
 
-このボットは、Discordでの勉強をサポートするためのものです。
+Discordでの勉強をサポートするためのBOTです。
 
 ## 前提条件:
 
