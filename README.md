@@ -1,11 +1,25 @@
 # Discord Study Bot
 
-勉強をサポートするためのDiscordBotです。
+このボットは、Discordでの勉強をサポートするためのものです。
 
 ## 前提条件:
 
 1. Pythonがインストールされていること
 2. `discord.py` ライブラリがインストールされていること
+
+### Pythonとライブラリのバージョン確認:
+
+現在のPythonのバージョンを確認するには:
+
+\```
+python --version
+\```
+
+`discord.py` のバージョンを確認するには:
+
+\```
+pip show discord.py | grep Version
+\```
 
 ## 環境変数の設定:
 
